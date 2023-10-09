@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = ccw888@gmail.com
-	name = gh api user/emails | jq -r '.[].email'
+	name = chengwei
